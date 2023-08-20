@@ -1,5 +1,5 @@
-import React, { useState } from '../src/teact/teact';
-import TeactDOM from '../src/teact/teact-dom';
+import React, { useState } from '../build/teact/teact';
+import TeactDOM from '../build/teact/teact-dom';
 
 TeactDOM.render(
   <App />,
